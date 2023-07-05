@@ -1,0 +1,11 @@
+.button-text-color{
+  color:azure;
+}
+#intro-bg{
+  background-image: url('https://images.livspace-cdn.com/w:1920/plain/https://d3gq2merok8n5r.cloudfront.net/img/landingpages/full-home-interiors/Edge_New/new-folder-1657193933-8Jkh5/1440x730-1657194139-erPsT.jpg');
+  background-position: center;
+  background-size: cover;
+}
+.align{
+  text-align: center;
+}
